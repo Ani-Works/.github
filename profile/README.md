@@ -1,4 +1,6 @@
-## This is AniWorks!
+## This is AniWorks! <img src="https://graph.org/file/91cfe996f84061969312a.jpg" width="37" height="37"> 
+
+<img src="https://graph.org/file/0c22b49ae7f3823c814f6.jpg">
 
 An community of Weebs & Otakus working together and making fun Anime Themed Projects! 
 
